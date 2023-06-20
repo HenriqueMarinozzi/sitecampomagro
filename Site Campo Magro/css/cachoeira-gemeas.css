@@ -38,7 +38,7 @@ nav a {
 h1 {
   text-align: center;
   margin-top: 100px;
-  font-size: 50px;
+  font-size: 55px;
 }
 
 .imagenspontosturisticos {
@@ -56,7 +56,9 @@ h1 {
 
 .titulo-localizacao {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 80px;
+  font-size: 22px;
+  margin-top: 150px;
 }
 
 .map-container {
@@ -64,4 +66,40 @@ h1 {
   max-width: 800px;
   height: 500px;
   margin: 0 auto;
+}
+
+.texto {
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 18px;
+  line-height: 1.6;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.informacoes {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 18px;
+  margin-bottom: 400px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 150px;
+  font-size: 35px;
+}
+
+footer {
+  background-color: rgb(184, 183, 183);
+  padding: 20px;
+  font-size: 18px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 300px;
+  font-size: 35px;
 }
