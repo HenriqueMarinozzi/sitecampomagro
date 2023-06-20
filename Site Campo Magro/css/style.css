@@ -149,7 +149,7 @@ section#pontosturisticos {
 
 .capa {
   position: relative;
-  background-image: url("/img/pedreira.jpg");
+  background-image: url("../img/pedreira.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
