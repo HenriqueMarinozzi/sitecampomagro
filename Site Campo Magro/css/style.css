@@ -8,25 +8,26 @@ body {
 
 header {
   color: #fff;
-  padding: 10px;
+  padding: 0px;
   position: fixed;
   width: 100%;
   z-index: 999;
   top: 0;
   background-color: rgb(184, 183, 183);
   font-size: 18px;
+  text-align: center;
 }
 
 nav ul {
   display: flex;
   align-items: center;
   background-color: rgb(184, 183, 183);
-  padding-left: 80px;
+  padding-left: 50px;
 }
 
 nav li {
   display: inline;
-  margin-right: 150px;
+  margin-right: 160px;
   background-color: rgb(184, 183, 183);
 }
 
